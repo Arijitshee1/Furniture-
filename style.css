@@ -1,0 +1,312 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+   list-style-type: none;
+}
+.logo{
+    height: 109px;
+    width: 110px;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    margin-right:0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.line{
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-evenly;
+    margin-top: 33px;
+    margin-right: 655px;
+    
+    
+}
+
+.head{
+    display: flex;
+
+    /* position:relative ; */
+    margin-right: 10px;
+}
+.headinput{
+    margin-left: -176px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+.headinput p{
+    margin-left: 10px;
+}
+.home{
+    padding-left: 22px;
+    padding-right: 30px;
+}
+.main{
+ /* height: 487px;
+ width: 1530px;    */
+ background-color: rgb(255, 226, 216);
+ margin-left: 86px;
+ /* position: absolute; */
+ /* margin-left: 10px; */
+ /* position: sticky; */
+}
+.banner{
+ /* background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: 100% 100%;    */
+ padding-bottom: 30px;
+ margin-left: -86px;
+ height: 465px;
+ width: 1435px;
+ }
+ .discoverm{
+   background-color: rgb(252, 122, 75);
+   color: white;
+   padding: 10px 17px;
+padding-top: 10px;
+width: 131px;
+ }
+ .sale{
+   width: 291px;
+   background-color: white;
+   padding: 12px 44px;
+   margin-left: 120px;
+   position: absolute;
+   margin-left: -1200px;
+   margin-top: 96px;
+ }
+ .off{
+   color: grey;
+ }
+ .cost{
+   font-size: 40px;
+ }
+ .pro{
+    text-align:center;
+
+ }
+ .ff{
+    font-size: 30px;
+ }
+ .catagory{
+          display: flex;
+          justify-content: center;
+          margin-top: 50px;
+ }
+ .card{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    text-align: center;
+ }
+ .photo{
+    width: 380px;
+ }
+ .paisa{
+    font-size: 25px;
+    color: rgb(118, 0, 0);
+
+ }
+ /* .sofa{
+
+ } */
+ .cardpart{
+    border: 1px solid rgb(0, 0, 0);
+ }
+ .ban{
+    width: 810px;
+ }
+ .full{
+    display: flex;
+    margin-top: 50px;
+
+ }
+ .letter{
+   background-color: rgb(249, 218, 207);
+    padding-left: 40px;
+    padding-right: 145px;
+    padding-top: 50px;
+ }
+ .Best{
+    font-size: 30px;
+    text-align: center;
+ }
+ .discover{
+    background-color: rgb(252, 122, 75);
+    color: white;
+    padding: 10px 17px;
+    width: 132px;
+    margin: 161px;
+ }
+ .instafull{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .instabody{
+   width: 400px;
+   height: 504px;
+   margin-top: 32px;
+   background-color: rgb(249, 218, 207);
+ }
+ .instalogo i{
+  font-size: 62px;
+  padding-top: 103px;
+  color: orange
+ }
+ .insta{
+   width: 542px;  
+  height: 500px;
+  margin-top: 35px;
+ }
+ .discover1{
+   background-color: rgb(252, 122, 75);
+   color: white;
+   padding: 10px 17px;
+   width: 132px;
+   margin: 105px;
+padding-top: 10px;
+ }
+.instatext{
+   padding-bottom: 10px;
+}
+.margin{
+   margin-top: 50px;
+}
+.discover2{
+   margin-top: 27px;
+   background-color: rgb(252, 122, 75);
+   color: white;
+   padding: 10px 17px;
+   width: 132px;
+   margin-left: -72px;
+   color:  rgb(252, 122, 75);
+
+}
+.orders{
+   width: 60px;
+}
+.last{
+  
+}
+.cream{
+   display: flex;
+   justify-content: space-between;
+   /* align-items: center; */
+   text-align: center;
+   height: 371px;
+}
+/* .bg{
+  background-color:rgb(248, 230, 161);
+   margin-right: 40px;
+   margin-left: -40px;
+    padding: 40px;
+    height: 423px;
+} */
+.blue{
+   background-color: aqua;
+   
+   margin-left: 667px;
+}
+.foot{
+   width: 70px;
+}
+.cream{
+   display: flex;
+   background-color: rgb(249, 218, 207);
+   margin-right: 40px;
+    margin-left: -40px;
+    padding: 40px;
+}
+.footer{
+   background-color: rgb(20, 22, 75);
+   margin-left: 40px;
+   margin-right: -40px;
+   padding: 40px;
+
+}
+.footlogo{
+   display: flex;
+   justify-content: space-evenly;
+   
+}
+.finish{
+  position: absolute;
+   width: 1464px;  color: wheat;
+
+margin-top: -231px;
+
+
+   
+}
+.Search{
+   border: none;
+   padding-right: 8px;
+   margin-right: 10px;
+   background-color: rgb(255, 226, 216);
+   
+}
+.ss{
+   border-bottom: 2px black solid;
+}
+.cardpart1{
+   border: 1px solid rgb(0, 0, 0);
+}
+/* /////////////////////// */
+:hover
+
+
+
+.discover:hover{
+   background-color: white;
+   color: orangered;
+   border: 1px solid orangered;
+}
+.discover1:hover{
+   background-color: white;
+   color: orangered;
+   border: 1px solid orangered;
+}
+.discover2:hover{
+   background-color: white;
+   color: orangered;
+   border: 1px solid orangered;
+}
+.discoverm:hover{
+   background-color: white;
+   color: orangered;
+   border: 1px solid orangered;
+}
+.lasticon i{
+   border: 1px solid white;
+    border-radius: 50px;
+    padding: 5px;
+    color: white;
+}
+.instalogo i:hover {
+   
+color: linear-gradient(338deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);;
+}
+.head a:hover{
+   border-bottom: 3px orange solid;
+}
+.cardpart{
+   padding: 5px;
+   /* background-color: green; */
+   transition: transform .2s; /* Animation */
+   /* width: 200px;
+   height: 200px; */
+   margin: 0;
+ }
+ 
+ .cardpart:hover {
+   transform: scale(1.05);
+ }
+ .catagory a:hover{
+   border-bottom: 3px orange solid;
+ }
